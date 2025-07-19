@@ -1,0 +1,2 @@
+# Hospital_Readmissions_Project
+Unplanned Hospital Visits: provider data. This data set includes provider data for the hospital return days (or excess days in acute care [EDAC]) measures, the unplanned readmissions measures, and measures of unplanned hospital visits after outpatient procedures. NOTICE: Data from the 1st and 2nd quarters of 2020 are not being reported due to the impact of the COVID-19 pandemic. For more information, please reference https://qualitynet.cms.gov/files/5fb838aef61c410025a64709?filename=2020-111-IP.pdf.
